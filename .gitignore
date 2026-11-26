@@ -1,0 +1,5 @@
+# build output
+TwinPods.app/
+twinpods
+dist/
+.DS_Store
