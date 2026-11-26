@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="TwinPods: one Mac, two headphones" width="720"></p>
+
 # TwinPods
 
 Play your Mac's audio through **two (or more) Bluetooth headphones or speakers at the same time**.
