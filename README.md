@@ -48,3 +48,7 @@ may stutter or drift out of sync. For many speakers, prefer AirPlay or the manuf
 - `Core.swift`: CoreAudio logic shared by both targets
 - `menubar/main.swift`: menu bar app
 - `cli/main.swift`: command line tool
+
+## License
+
+[MIT](LICENSE)
